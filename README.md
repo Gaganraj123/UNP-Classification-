@@ -10,4 +10,4 @@ sulphates, alcohol and quality.
 The aim of this project is to predict the quality of wine on a scale of 0-10 given a set of
 features as inputs.
 
- We have quality being one of these values:[3, 4, 5, 6, 7, 8
+ We have quality being one of these values:[3, 4, 5, 6, 7, 8]
